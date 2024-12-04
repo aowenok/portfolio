@@ -21,4 +21,6 @@ The hardware components are:
 **SOFTWARE**
 
 The programming for the graphics is done in a mix of C++ and Python. The code handling the audio input and LCD interface is done in Python.
+
+
 ![Embedded Video Block Diagram](ola_vid_dia.png)
