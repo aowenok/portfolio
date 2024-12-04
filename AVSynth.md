@@ -9,7 +9,7 @@ generated. The LCD interface allows the user to adjust the base animation, and h
 zooming in or out of the display. 
 
 **HARDWARE**
-
+![Embedded Video Schematic](ola_schem.jpg)
 The hardware components are:
 - Raspberry Pi 5
 - 3d Sound USB Soundcard with a PCM2902 CODEC 
