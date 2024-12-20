@@ -1,6 +1,31 @@
-# Hello and Welcome!
-My name is **Alexander Owen** and here you can find my favorite projects from school and from my personal life. This main readme will contain a summary of the contents, but feel free to check out the associated project folders for more details. I have just begun centralizing my work here so there will be frequent updates and projects added in the near future. 
-- [Audio Visual Synthesizer](./md_files/AVSynth.md)
-- [Colpitts Oscillator Circuit](./md_files/Colpitts.md)
-
-
+<h1 align="center">Alexander Owen</h1>
+<table>
+  <tbody>
+    <tr>
+      <td><b>Information</b></td>
+      <td width="50%" rowspan="4">
+        <img alt="Photo" src="./images/port_photo.jpg" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>alexowenok@gmail.com</li>
+          <li>http://www.linkedin.com/in/alexander-owen-ucsc</li>
+        </ul>
+      </td>
+    </tr>
+    <tr><td><b>About Me</b></td></tr>
+    <tr>
+      <td width="50%">
+        <ul>
+          <li><a href="./md_files/education.md">Education</a></li>
+          <li><a href="./md_files/experience.md">Experience</a></li>
+          <li><a href="./md_files/projects.md">Projects</a></li>
+          <li><a href="./md_files/qualifications.md">Skills & Qualifications</a></li>
+          <li><a href="./md_files/extracurriculars.md">Honors & Extracurriculars</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
