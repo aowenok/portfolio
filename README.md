@@ -3,9 +3,7 @@
   <tbody>
     <tr>
       <td><b>Information</b></td>
-      <td width="50%" rowspan="4">
-        <img alt="Photo" src="./images/port_photo.jpg" >
-      </td>
+      <td width="50%" rowspan="4"><img src = "./images/port_photo.JPG"></td>
     </tr>
     <tr>
       <td>
